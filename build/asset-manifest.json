@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hanmustofa/my-SPA/tree/master/static/css/main.c8c48d66.chunk.css",
+    "main.js": "/hanmustofa/my-SPA/tree/master/static/js/main.474bd84a.chunk.js",
+    "main.js.map": "/hanmustofa/my-SPA/tree/master/static/js/main.474bd84a.chunk.js.map",
+    "runtime-main.js": "/hanmustofa/my-SPA/tree/master/static/js/runtime-main.10b0b2ab.js",
+    "runtime-main.js.map": "/hanmustofa/my-SPA/tree/master/static/js/runtime-main.10b0b2ab.js.map",
+    "static/js/2.3f7b2753.chunk.js": "/hanmustofa/my-SPA/tree/master/static/js/2.3f7b2753.chunk.js",
+    "static/js/2.3f7b2753.chunk.js.map": "/hanmustofa/my-SPA/tree/master/static/js/2.3f7b2753.chunk.js.map",
+    "index.html": "/hanmustofa/my-SPA/tree/master/index.html",
+    "precache-manifest.22fa68619f82740e70e46857e064d0e9.js": "/hanmustofa/my-SPA/tree/master/precache-manifest.22fa68619f82740e70e46857e064d0e9.js",
+    "service-worker.js": "/hanmustofa/my-SPA/tree/master/service-worker.js",
+    "static/css/main.c8c48d66.chunk.css.map": "/hanmustofa/my-SPA/tree/master/static/css/main.c8c48d66.chunk.css.map",
+    "static/js/2.3f7b2753.chunk.js.LICENSE": "/hanmustofa/my-SPA/tree/master/static/js/2.3f7b2753.chunk.js.LICENSE",
+    "static/media/han.jpg": "/hanmustofa/my-SPA/tree/master/static/media/han.6dfded41.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10b0b2ab.js",
+    "static/js/2.3f7b2753.chunk.js",
+    "static/css/main.c8c48d66.chunk.css",
+    "static/js/main.474bd84a.chunk.js"
+  ]
+}
